@@ -1,7 +1,7 @@
 
 # REST Fizzbuzz
 
-A small api which returns a fizzbuzz array using NodeJS Express. 
+A small api which returns a fizzbuzz array using NodeJS Express. Run using `npm start` and navigating to localhost:3000.
 
 
 ## API Reference
